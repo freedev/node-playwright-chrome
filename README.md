@@ -1,6 +1,6 @@
-# Simple Node Playwrite with Express Server
+# Simple Node Playwright with Express Server
 
-An easy way to get started with Playwrite with Node.js.
+An easy way to get started with Playwright with Node.js.
 
 ## Features
 
@@ -12,7 +12,7 @@ An easy way to get started with Playwrite with Node.js.
 
 ## Installation
 
-* `git clone git@github.com:freedev/node-playwrite-chrome.git`
-* `cd node-playwrite-chrome`
+* `git clone git@github.com:freedev/node-playwright-chrome.git`
+* `cd node-playwright-chrome`
 * `npm install`
 * `npm start`
