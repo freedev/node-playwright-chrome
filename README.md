@@ -1,4 +1,4 @@
-# Simple Node Puppeteer with Express Server
+# Simple Node Playwrite with Express Server
 
 An easy way to get started with Playwrite with Node.js.
 
