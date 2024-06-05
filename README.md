@@ -15,5 +15,4 @@ An easy way to get started with Playwrite with Node.js.
 * `git clone git@github.com:freedev/node-playwrite-chrome.git`
 * `cd node-playwrite-chrome`
 * `npm install`
-* `npx playwright install`
 * `npm start`
